@@ -18,3 +18,7 @@ Before running the script, ensure Python 3 is installed on your system. You can 
    ```bash
    git clone https://github.com/aget2101/inet_4031_adduser_script.git
 
+## Screenshot of User Creation Script Execution
+
+![Screenshot of User Creation Script Execution](screenshot.png)
+
